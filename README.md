@@ -1,6 +1,6 @@
 ## Netflix Clone
 
-#### Front end contruido ao longo do bootcamp LocalizaLabs Reac Developer.
+#### Frontend contruido ao longo do bootcamp LocalizaLabs Reac Developer.
 
 O projeto pode ser executado em um servidor local nodejs seguindo os passos abaixo:
 
